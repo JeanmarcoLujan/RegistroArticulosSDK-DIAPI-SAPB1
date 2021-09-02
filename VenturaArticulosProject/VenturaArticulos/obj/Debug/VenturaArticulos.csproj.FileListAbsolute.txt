@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.csproj.ResolveComReference.cache
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.Properties.Resources.resources
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\bin\Debug\VenturaArticulos.exe.config
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\bin\Debug\VenturaArticulos.exe
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\bin\Debug\VenturaArticulos.pdb
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.exe
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.pdb
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.Articulos.resources
+C:\Users\User\source\repos\VenturaArticulos\VenturaArticulos\obj\Debug\VenturaArticulos.csproj.CoreCompileInputs.cache
